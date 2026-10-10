@@ -1,7 +1,5 @@
 # Build an AWS IAM Compliance Engine
 
-**Project Link:** [View Project](https://nextwork.ai/projects/8f691823-720b-4e4b-bf9c-1bcbfe917fe9)
-
 **Author:** Cherif Rahman
 
 ---
