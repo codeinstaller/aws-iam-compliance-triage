@@ -1,5 +1,3 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
-
 # Build an AWS IAM Compliance Engine
 
 **Project Link:** [View Project](https://nextwork.ai/projects/8f691823-720b-4e4b-bf9c-1bcbfe917fe9)
@@ -96,5 +94,3 @@ This project took me approximately 3 days. The most challenging part was when I 
 I did this project today to learn how to create an AWS Identity and Access Management system with SQL that businesses/startups can use. Another skill I want to learn is CI/CD pipelines because I'm interested in what they do and how they are implemented in systems.
 
 ---
-
-*Built with [NextWork](https://nextwork.ai) - [View this project](https://nextwork.ai/projects/8f691823-720b-4e4b-bf9c-1bcbfe917fe9)*
