@@ -1,0 +1,5 @@
+control_id,control_name,severity,principal,resource_arn,key_slot,credential_age_days,owner_team,evidence,recommended_action
+IAM.4,IAM root user access key should not exist,CRITICAL,root_account,arn:aws:iam::123456789012:root,,,Cloud Platform,Root user has an active access key,Delete every access key associated with the root user
+IAM.5,MFA should be enabled for all IAM users that have a console password,MEDIUM,alice,arn:aws:iam::123456789012:user/alice,,,Identity Operations,Console password is enabled but MFA is not active,Enable MFA for the IAM user
+IAM.3,IAM users' access keys should be rotated every 90 days or less,MEDIUM,bob,arn:aws:iam::123456789012:user/bob,2,247,Identity Operations,Active access key is older than 90 days,Rotate the access key and update every dependent workload
+IAM.3,IAM users' access keys should be rotated every 90 days or less,MEDIUM,dave,arn:aws:iam::123456789012:user/dave,1,292,Identity Operations,Active access key is older than 90 days,Rotate the access key and update every dependent workload
